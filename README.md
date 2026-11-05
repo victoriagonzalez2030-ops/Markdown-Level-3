@@ -36,4 +36,7 @@ You can go back by typing `cd ..`
    - make sure to not include the brackets when doing so
    - use`pwd` to confirm where you're at before running the command
    - *Reminder:* Directory = Folder
+   ---
+   <h1> Other cheat sheet to use</h1>
+   <img src="https://www.git-tower.com/learn/media/pages/cheat-sheets/git/48d8a4c039-1787825537/git-cheat-sheet-large01.png" alt="Git Cheat Sheet | Learn Version Control with Git"/>
      
